@@ -1,2 +1,1 @@
-/twitter/url?url=https%3A%2F%2Fshields.io
-
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=Jaskirat)
